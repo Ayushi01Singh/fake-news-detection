@@ -28,21 +28,3 @@ In this Project I have mainly used four classification models namely  :-
 4. Click kernel -> Restart and Run All 
 5. Project will be executed
 
-
-## 🔴 Live Demo
-Project demo :- [Fake News Detection](https://youtu.be/tBDj_21L618)
-
-[<img src="https://user-images.githubusercontent.com/67093170/197164711-0aaf03a4-827b-404e-8e92-532541b3cf75.png">](https://youtu.be/tBDj_21L618)
-
-## 🎨 Python Packages used in this project
-- Pandas
-- numpy
-- sklearn
-- string
-- re
-- matplotlib
-
-
-## Authors
-
-- [Aditya Wadkar](https://www.github.com/AdityaWadkar)
